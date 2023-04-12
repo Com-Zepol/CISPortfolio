@@ -1,0 +1,30 @@
+C:\Users\Eric\Desktop\Labs\Lab4\Lab4\bin\Debug\Lab4.exe.config
+C:\Users\Eric\Desktop\Labs\Lab4\Lab4\bin\Debug\Lab4.exe
+C:\Users\Eric\Desktop\Labs\Lab4\Lab4\bin\Debug\Lab4.pdb
+C:\Users\Eric\Desktop\Labs\Lab4\Lab4\obj\Debug\Lab4.csprojAssemblyReference.cache
+C:\Users\Eric\Desktop\Labs\Lab4\Lab4\obj\Debug\Lab4.Form1.resources
+C:\Users\Eric\Desktop\Labs\Lab4\Lab4\obj\Debug\Lab4.Properties.Resources.resources
+C:\Users\Eric\Desktop\Labs\Lab4\Lab4\obj\Debug\Lab4.csproj.GenerateResource.cache
+C:\Users\Eric\Desktop\Labs\Lab4\Lab4\obj\Debug\Lab4.csproj.CoreCompileInputs.cache
+C:\Users\Eric\Desktop\Labs\Lab4\Lab4\obj\Debug\Lab4.exe
+C:\Users\Eric\Desktop\Labs\Lab4\Lab4\obj\Debug\Lab4.pdb
+C:\Users\Eric\Desktop\COPY\Lab4\Lab4\bin\Debug\Lab4.exe.config
+C:\Users\Eric\Desktop\COPY\Lab4\Lab4\bin\Debug\Lab4.exe
+C:\Users\Eric\Desktop\COPY\Lab4\Lab4\bin\Debug\Lab4.pdb
+C:\Users\Eric\Desktop\COPY\Lab4\Lab4\obj\Debug\Lab4.csprojAssemblyReference.cache
+C:\Users\Eric\Desktop\COPY\Lab4\Lab4\obj\Debug\Lab4.Form1.resources
+C:\Users\Eric\Desktop\COPY\Lab4\Lab4\obj\Debug\Lab4.Properties.Resources.resources
+C:\Users\Eric\Desktop\COPY\Lab4\Lab4\obj\Debug\Lab4.csproj.GenerateResource.cache
+C:\Users\Eric\Desktop\COPY\Lab4\Lab4\obj\Debug\Lab4.csproj.CoreCompileInputs.cache
+C:\Users\Eric\Desktop\COPY\Lab4\Lab4\obj\Debug\Lab4.exe
+C:\Users\Eric\Desktop\COPY\Lab4\Lab4\obj\Debug\Lab4.pdb
+C:\Users\Eric\Downloads\New Original\Lab4\Lab4\bin\Debug\Lab4.exe.config
+C:\Users\Eric\Downloads\New Original\Lab4\Lab4\bin\Debug\Lab4.exe
+C:\Users\Eric\Downloads\New Original\Lab4\Lab4\bin\Debug\Lab4.pdb
+C:\Users\Eric\Downloads\New Original\Lab4\Lab4\obj\Debug\Lab4.csprojAssemblyReference.cache
+C:\Users\Eric\Downloads\New Original\Lab4\Lab4\obj\Debug\Lab4.Form1.resources
+C:\Users\Eric\Downloads\New Original\Lab4\Lab4\obj\Debug\Lab4.Properties.Resources.resources
+C:\Users\Eric\Downloads\New Original\Lab4\Lab4\obj\Debug\Lab4.csproj.GenerateResource.cache
+C:\Users\Eric\Downloads\New Original\Lab4\Lab4\obj\Debug\Lab4.csproj.CoreCompileInputs.cache
+C:\Users\Eric\Downloads\New Original\Lab4\Lab4\obj\Debug\Lab4.exe
+C:\Users\Eric\Downloads\New Original\Lab4\Lab4\obj\Debug\Lab4.pdb
